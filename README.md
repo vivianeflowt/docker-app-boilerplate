@@ -6,5 +6,5 @@
 <span>docker-compose down</span>
 <br>
 <br>
-<span> PGAdmin4:http://localhost:16543/ </span>
+<span> PGAdmin4: http://localhost:16543/ (postgres/password) </span>
 <br>
