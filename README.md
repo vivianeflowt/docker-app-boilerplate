@@ -7,17 +7,17 @@
 <br><br>
 <h3>Default Settings</h3>
 <br>
-Aplication: http://localhost:3000/ <a href="http://localhost:3000">Application</a>
+<a href="http://localhost:3000">Application</a>: http://localhost:3000 
 <br><br>
 Postgres: Port:5432 (postgres/password) 
 <br><br>
-PGAdmin4: http://localhost:16543/ (postgres/password) <a href="http://localhost:16543">PGAdmin4</a>
+<a href="http://localhost:16543">PGAdmin4</a>: http://localhost:16543   (postgres/password) 
 <br><br>
 MongoDB: Port: 27017 (root/password)
 <br><br>
-Mongo-Express: http://localhost:8081/ (user/password) <a href="http://localhost:8081"/>Mongo-Express</a>
+<a href="http://localhost:8081"/>Mongo-Express</a>: http://localhost:8081   (user/password) 
 <br><br>
 MySQL: Port: 3306 (root/password)
 <br><br>
-PHPMyAdmin: http://localhost:8080/ (root/password) <a href="http://localhost:8080/"/>PHPMyAdmin</a>
+<a href="http://localhost:8080/"/>PHPMyAdmin</a>: http://localhost:8080   (root/password) 
 
