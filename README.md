@@ -1,4 +1,5 @@
 # Docker Composer Bootstrap for New Node Applications
 
-docker-compose up -d
-docker-compose down
+<span>docker-compose up -d</span>
+<br>
+<span>docker-compose down</span>
