@@ -2,12 +2,12 @@ node_modules
 .git
 tmp
 temp
-.ipynb_checkpoints/*
-/notebooks/*
 /unused/*
 Dockerfile
 .DS_Store
 .gitignore
 README.md
 env.*
-/devops/*
+*.log
+*.tmp
+*.temp
