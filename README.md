@@ -6,5 +6,8 @@
 <span>docker-compose down</span>
 <br>
 <br>
-<span> PGAdmin4: http://localhost:16543/ (postgres/password) </span>
+PGAdmin4: http://localhost:16543/ (postgres/password)
 <br>
+Mongo-Express: http://localhost:8081/ (user/password)
+<br>
+MongoDB: Port: 27017 (root/password)
