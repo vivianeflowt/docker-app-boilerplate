@@ -1,1 +1,1 @@
-# docker-app-boilerplate
+# Docker Composer Bootstrap for New Node Applications
